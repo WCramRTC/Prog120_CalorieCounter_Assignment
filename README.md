@@ -38,8 +38,6 @@ For your final you will demonstrate all the skills you developed during your tim
 
 Using the table below use it to help define your 
 
-https://docs.google.com/spreadsheets/d/1QUYKDqLDOSL33nQqcTDCptpP_7BI6Aq8iz9USlvUocc/edit?usp=sharing
-
 | Name     | Category  | Calories | Quantity | Total Calories |
 | -------- | --------- | -------- | -------- | -------------- |
 | Apple    | Fruit     | 95       | 1        | 95             |
